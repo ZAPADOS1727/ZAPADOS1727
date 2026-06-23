@@ -2,7 +2,7 @@
 - 👀 I’m interested in hacking and computers
 - 🌱 I’m currently learning Python coding
 - 💞️ I’m looking to collaborate on pc
-- 📫 How to reach me zpados1727@gmail.com
+- 📫 How to reach me zapados1727@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
